@@ -5,3 +5,5 @@ paths:
 - "org/jenkins-ci/plugins/build-history-metrics-plugin"
 developers:
 - "mcgin"
+cd:
+  enabled: true
